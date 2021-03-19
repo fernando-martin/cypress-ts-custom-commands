@@ -1,0 +1,12 @@
+{
+  "name": "add-custom-command-ts",
+  "version": "1.0.0",
+  "description": "Write your own Cypress commands in TypeScript",
+  "scripts": {
+    "cypress:open": "./node_modules/.bin/cypress open"
+  },
+  "devDependencies": {
+    "cypress": "^6.8.0",
+    "typescript": "^4.2.3"
+  }
+}
